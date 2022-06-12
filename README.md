@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divinestrom
+- 👋 Hi, I’m @divinestorms
 - 👀 I’m interested in cool programs!!!
 - 🌱 I’m currently learning dotnet&asp.net!.
 
